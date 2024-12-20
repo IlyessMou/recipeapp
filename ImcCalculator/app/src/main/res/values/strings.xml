@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="prenom_label">Entrez votre prénom :</string>
+    <string name="prenom_hint">Tapez votre prénom...</string>
+    <string name="sexe_label">Sexe</string>
+    <string name="poids_label">Poids</string>
+    <string name="poids_hint">Entrez votre poids (kg)</string>
+    <string name="taille_label">Taille</string>
+    <string name="taille_hint">Entrez votre taille (m)</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="resultat_label">Votre IMC est: </string>
+</resources>
+

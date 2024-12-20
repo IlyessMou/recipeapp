@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint_first_number">Entrez le premier nombre</string>
+    <string name="hint_second_number">Entrez le deuxième nombre</string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">x</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_memory_save">Mémoriser</string>
+    <string name="btn_memory_use">Utiliser la mémoire</string>
+    <string name="btn_result">Afficher le Résultat</string>
+    <string name="btn_return">Retour</string>
+</resources>
+

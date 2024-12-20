@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/num1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_first_number"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/num2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_second_number"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/btnAddition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_add" />
+
+    <Button
+        android:id="@+id/btnSubtraction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_subtract" />
+
+    <Button
+        android:id="@+id/btnMultiplication"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_multiply" />
+
+    <Button
+        android:id="@+id/btnDivision"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_divide" />
+
+    <Button
+        android:id="@+id/btnMemorySave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mémoriser" />
+
+    <Button
+        android:id="@+id/btnMemoryUse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Utiliser la mémoire" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="37dp"
+        android:text="Résultat:" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
+
+

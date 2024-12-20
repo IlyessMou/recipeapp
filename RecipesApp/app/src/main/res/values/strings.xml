@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipes App</string>
+    <string name="add_recipe">Ajouter une Recette</string>
+    <string name="save_recipe">Enregistrer</string>
+    <string name="title">Titre</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="steps">Étapes</string>
+    <string name="category">Catégorie</string>
+    <string name="recipe_details">Détails de la Recette</string>
+    <string name="edit_recipe">Edit</string>
+    <string name="delete_recipe">Delete</string>
+</resources>
